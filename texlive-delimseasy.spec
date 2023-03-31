@@ -1,6 +1,6 @@
 Name:		texlive-delimseasy
 Version:	39589
-Release:	1
+Release:	2
 Summary:	Delimiter commands that are easy to use and resize
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/delimseasy
