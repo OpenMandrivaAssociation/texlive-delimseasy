@@ -3,7 +3,7 @@ Version:	39589
 Release:	2
 Summary:	Delimiter commands that are easy to use and resize
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/delimseasy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/delimseasy
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/delimseasy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/delimseasy.doc.r%{version}.tar.xz
